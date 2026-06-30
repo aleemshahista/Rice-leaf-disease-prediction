@@ -1,0 +1,16 @@
+{
+  "name": "RiceGuard AI",
+  "short_name": "RiceGuard",
+  "description": "AI-powered rice leaf disease prediction with treatment recommendations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
