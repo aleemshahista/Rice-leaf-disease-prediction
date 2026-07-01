@@ -16,6 +16,17 @@ AI-powered full-stack web application that helps farmers and agronomists identif
                     └──────────────┘
 ```
 
+## ✨ Features
+
+- 🌾 AI-powered rice leaf disease detection
+- 🎯 Confidence score prediction
+- 🔥 Grad-CAM visualization for model explainability
+- 💊 Disease treatment recommendations
+- 📜 Prediction history tracking
+- 🔒 Secure JWT-based user authentication
+- 📤 Image upload and analysis
+- 📊 Interactive dashboard with prediction insights
+
 **Tech Stack:**
 - **Frontend:** React 18, Vite, Tailwind CSS v3, Framer Motion, Recharts
 - **Backend:** FastAPI, SQLAlchemy, JWT Auth, SlowAPI rate limiting
